@@ -34,9 +34,3 @@ This portfolio serves as both:
 - 💼 **Freelance-Ready Brand:** Showcasing services, testimonials, and case studies for potential clients.
 
 ---
-
-<<<<<<< HEAD
-
-=======
-## 🏗️ Project Structure
->>>>>>> 2c07444 (project upload)
