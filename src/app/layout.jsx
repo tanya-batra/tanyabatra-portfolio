@@ -38,7 +38,7 @@ export const metadata = {
     siteName: "Tanya Batra Portfolio",
     images: [
       {
-        url: "https://tanyabatra-portfolio.vercel.app/og-image.png",
+        url: "https://tanyabatra-portfolio.vercel.app/logo.png",
         width: 1200,
         height: 630,
         alt: "Tanya Batra - Laravel Developer Portfolio",
@@ -52,7 +52,7 @@ export const metadata = {
     title: "Tanya Batra | Laravel Developer",
     description:
       "Laravel & PHP Developer with real-world production experience. Open to freelance and remote roles.",
-    images: ["https://tanyabatra-portfolio.vercel.app/og-image.png"],
+    images: ["https://tanyabatra-portfolio.vercel.app/logo.png"],
   },
   robots: {
     index: true,
