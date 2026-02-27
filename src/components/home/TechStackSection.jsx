@@ -49,19 +49,18 @@ export default function TechStackSection() {
 
           {/* Title */}
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white tracking-tight relative z-10 mt-4">
-            <span className="block mb-2">Tech Stack I Work With</span>
+            <span className="block mb-2">Tools and Technologies I Use</span>
             <span className="block h-1 w-24 mx-auto rounded-full bg-[#496cbf]/90 mt-2" />
           </h2>
 
           {/* Description */}
           <p className="mt-6 text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
-            A modern development stack focused on performance, scalability, and
-            clean architecture.
-            <span className="text-[#496cbf] font-semibold">
-              {" "}
-              Production-ready tools and technologies.
-            </span>
-          </p>
+  I work with a modern tech stack built for 
+  <span className="text-[#496cbf] font-semibold"> performance, security, and scalability.</span> 
+  Focused on clean architecture and 
+  <span className="text-[#496cbf] font-semibold"> production-ready technologies </span>
+  that power real-world web applications.
+</p>
         </div>
 
         {/* ================= STACK GRID ================= */}

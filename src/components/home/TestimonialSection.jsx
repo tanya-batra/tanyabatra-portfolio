@@ -57,11 +57,10 @@ const TestimonialSection = () => {
 
         {/* Description */}
         <p className="mt-6 text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
-          Real feedback from clients and collaborators highlighting my approach
-          to clean code, scalability, and professional delivery.
+          Clients appreciate my clean coding style, scalable solutions, and on-time delivery — a 
           <span className="text-[#496cbf] font-semibold">
             {" "}
-            Results-driven and developer-focused.
+           Results-driven and developer-focused approach.
           </span>
         </p>
       </div>

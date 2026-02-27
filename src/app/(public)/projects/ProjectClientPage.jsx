@@ -48,7 +48,7 @@ const ProjectClientPage = () => {
 
         {/* Heading */}
         <h2 className="text-3xl md:text-4xl font-semibold tracking-tight leading-tight mb-6">
-          My Work &<span className="text-[#496cbf]">Projects</span>
+          My Work &<span className="text-[#496cbf]"> Projects</span>
         </h2>
 
         {/* Accent Line */}

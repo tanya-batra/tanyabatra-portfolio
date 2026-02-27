@@ -120,7 +120,7 @@ const HeroSection = () => {
 
                   {/* Content */}
                   <span className="relative z-10 flex items-center gap-2">
-                    <span>Let’s Discuss the Role</span>
+                    <span>Let’s Connect</span>
                     <span
                       className="inline-flex h-5 w-5 items-center justify-center
                         rounded-md group-hover:bg-white/15 bg-[#496cbf] text-white text-xs

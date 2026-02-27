@@ -54,13 +54,12 @@ export default function FeaturedProjects() {
 
         {/* Section Description */}
         <p className="mt-6 text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
-          A showcase of my top development projects demonstrating modern tech
-          stacks, clean architecture, and innovative solutions.
-          <span className="text-[#496cbf] font-semibold">
-            {" "}
-            Developer-focused, scalable, and professional implementations.
-          </span>
-        </p>
+  A collection of my best web development projects built with modern tech stacks, 
+  clean architecture, and real-world scalability. 
+  <span className="text-[#496cbf] font-semibold">
+    Developer-focused, reliable, and performance-driven solutions.
+  </span>
+</p>
       </div>
 
       {/* Projects Grid */}

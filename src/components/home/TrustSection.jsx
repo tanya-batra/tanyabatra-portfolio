@@ -33,14 +33,12 @@ const TrustSection = () => {
             <span className="block h-1 w-24 mx-auto rounded-full bg-[#496cbf]/90 mt-2" />
           </h2>
 
-          <p className="mt-6     text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
-            Proven experience, multiple successful projects, and mastery of
-            modern technologies.
-            <span className="text-[#496cbf] font-semibold">
-              {" "}
-              Clean code, scalable systems, and developer-first approach.
-            </span>
-          </p>
+         <p className="mt-6 text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
+  Trusted by clients for clean code, secure systems, and on-time delivery. 
+  I build fast, reliable web applications using 
+  <span className="text-[#496cbf] font-semibold"> Laravel </span> 
+  and modern backend tools. 
+        </p>
         </div>
 
         {/* Stats Cards */}

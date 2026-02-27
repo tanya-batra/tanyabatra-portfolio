@@ -35,4 +35,8 @@ This portfolio serves as both:
 
 ---
 
+<<<<<<< HEAD
 
+=======
+## 🏗️ Project Structure
+>>>>>>> 2c07444 (project upload)

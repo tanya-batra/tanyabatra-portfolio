@@ -49,9 +49,7 @@ Message: ${data.message}
 
         {/* Description */}
         <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-          Whether it’s a freelance project, full-time collaboration, or a quick
-          question about development, I’d love to hear from you. Fill out the
-          form below or reach out via social links.
+          I’m always open to new opportunities — whether it’s a freelance project, full-time role, or a quick tech discussion. Feel free to reach out through the form below or connect via my social links.
         </p>
       </section>
 
@@ -163,7 +161,7 @@ Message: ${data.message}
           </div>
 
           {/* Social Links */}
-          <div className="flex items-center gap-6 mt-6 justify-start">
+          <div className="flex items-center gap-6 mt-6 ps-4 justify-start">
             <Link href="https://github.com/tanya-batra" target="_blank">
               <Github className="w-6 h-6 text-[#496cbf] hover:text-indigo-500 transition-colors duration-300" />
             </Link>
