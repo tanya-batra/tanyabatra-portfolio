@@ -72,16 +72,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         {/* Global Header with Logo */}
-        <header className="p-4 flex items-center gap-4 shadow-md">
-          <Image
-            src="/logo.png"
-            alt="Tanya Batra Logo"
-            width={60}
-            height={60}
-            priority
-          />
-          <span className="text-xl font-semibold">Tanya Batra</span>
-        </header>
+       
 
         {/* Main content */}
         <main>{children}</main>
