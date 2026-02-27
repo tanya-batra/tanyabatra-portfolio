@@ -1,6 +1,5 @@
 import { Inter } from "next/font/google";
 import { Toaster } from "sonner";
-import Image from "next/image";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -26,12 +25,12 @@ export const metadata = {
   ],
   authors: [{ name: "Tanya Batra" }],
   creator: "Tanya Batra",
-  metadataBase: new URL("https://tanyabatra-portfolio.vercel.app"), // replace with your live domain
+  metadataBase: new URL("https://tanyabatra-portfolio.vercel.app"),
   alternates: {
     canonical: "https://tanyabatra-portfolio.vercel.app",
   },
   openGraph: {
-    title: "Tanya Batra | Laravel Developer & PHP Engineer",
+    title: "Tanya Batra | Php & Laravel Developer",
     description:
       "Laravel Developer with 1.5+ years of experience at Buildupnet. Built production-ready platforms including e-commerce and salon management systems.",
     url: "https://tanyabatra-portfolio.vercel.app",
@@ -65,22 +64,16 @@ export const metadata = {
       "max-video-preview": -1,
     },
   },
+  verification: {
+    google: "yNVziSPIekMz_KurAhKHaKVcwDK4IA4iUMOQYo_ZNBQ", // ✅ Add your Google token here
+  },
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-       <Head>
-       <meta name="google-site-verification" content="yNVziSPIekMz_KurAhKHaKVcwDK4IA4iUMOQYo_ZNBQ" />
-      </Head>
       <body className={inter.className}>
-        {/* Global Header with Logo */}
-       
-
-        {/* Main content */}
         <main>{children}</main>
-
-        {/* Global Toaster Notifications */}
         <Toaster />
       </body>
     </html>
