@@ -95,7 +95,7 @@ const AboutClientPage = () => {
         h-[400px] md:h-[480px] lg:h-[520px]"
             >
               <Image
-                src="/about.jpeg"
+                src="/about.png"
                 alt="Tanya Batra - Laravel Developer"
                 fill
                 sizes="(max-width: 768px) 100vw, 400px"
